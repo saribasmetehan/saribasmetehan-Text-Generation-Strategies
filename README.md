@@ -1,4 +1,4 @@
-#TR
+# TR
 # Text Generation Strategies
 
 Bu proje, dil modellerinde metin üretimi için kullanılan farklı stratejilerin teorik açıklamalarını ve Python uygulamalarını içermektedir. Aşağıdaki yöntemler detaylı bir şekilde incelenmiştir:
@@ -62,7 +62,7 @@ Sampling yöntemleri, rastgelelik ekleyerek daha çeşitli metinler üretir.
 Notebook dosyasına göz atmak için: [Sampling,_Top_k_and_Top_p.ipynb](Sampling,_Top_k_and_Top_p.ipynb)
 
 
-#EN
+# EN
 
 # Text Generation Strategies
 
